@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test App componet renders correctly or not 1`] = `
+<div
+  className="App"
+>
+  Welcome   App  Vaishali
+  <h2
+    data-testid="compId"
+  >
+    Happy Janmashtami
+  </h2>
+</div>
+`;
