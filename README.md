@@ -1,8 +1,8 @@
 # Javascript-and-ReactJS
 # commands
-# npm start
-# npm test
-# npm update
+npm start
+npm test
+npm update
 npm install react-router-dom
 npm i bootstrap
 npm i redux
